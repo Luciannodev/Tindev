@@ -3,9 +3,9 @@ Aplicação feita Com Apoio didático da OminiStack 8.0 da RocketSeat Onde é Cr
 
 # Como rodar
 
-antes de tudo em cada pasta (back-end e front-end) você vai entrar e digitar só o comando yarn, para recuperar as dependencias que não sobem pro github 
+antes de tudo em cada pasta (back-end e view) você vai entrar e digitar só o comando yarn, para recuperar as dependencias que não sobem pro github 
 
-Dentro desse repositorio vão ter 2 pastas o back-end e o front-end, no back-end você deve entrar na pasta e no Terminal digitar o comando 
+Dentro desse repositorio vão ter 2 pastas o back-end e o view, no back-end você deve entrar na pasta e no Terminal digitar o comando 
 "yarn dev", Você também deverar entrar na pasta do front end e digita no terminal "yarn start".
 
 ## Como Funciona
